@@ -1,0 +1,28 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image_041.png</filename>
+	<path>/home/antoine/Documents/intersection/images/image_041.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>941.439</cx>
+			<cy>347.4071</cy>
+			<w>20.9003</w>
+			<h>47.0563</h>
+			<angle>4.717773</angle>
+		</robndbox>
+		<extra/>
+	</object>
+</annotation>
